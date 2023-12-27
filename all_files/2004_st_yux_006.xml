@@ -1,0 +1,47 @@
+<corpusDoc txt:id="2004_st_yux_006">
+  <teiHeader>
+    <fileDesc>
+      <title>The dead people</title>
+      <sourceDesc>author="Nikolaeva &amp; Mayer" yearpub="2004" location="https://www.sgr.fi/yukaghir/start1.html"</sourceDesc>
+      <textDesc>variety="Kolyma Yukaghir" genre="story" daterec="1990" locrec="Unknown"</textDesc>
+      <particDesc>id="008" name="Nikolaj Lixachev" age="76" gender="male"</particDesc>
+    </fileDesc>
+  </teiHeader>
+  <stext>
+    <IU n="1">ам-дэ-йэ шоромо-пул,</IU>
+    <IU n="2">(0.9)</IU>
+    <IU n="3">[модо] —</IU>
+    <IU n="4">модо-ӈи.</IU>
+    <IU n="5">(2.4)</IU>
+    <IU n="6">тии титтэ-л,</IU>
+    <IU n="7">ам-дэ-ллэ,</IU>
+    <IU n="8">льэ-п-ки,</IU>
+    <IU n="9">(0.5)</IU>
+    <IU n="10">амун-пэ-ги тии пол-аа-ну-й,</IU>
+    <IU n="11">(1.0)</IU>
+    <IU n="12">а,</IU>
+    <IU n="13">дух,</IU>
+    <IU n="14">(1.0)</IU>
+    <IU n="15">льэ-й,</IU>
+    <IU n="16">айбии-пэ-ги,</IU>
+    <IU n="17">(1.4)</IU>
+    <IU n="18">иркилльэ модо-ӈи.</IU>
+    <IU n="19">(1.0)</IU>
+    <IU n="20">мит ходо модо-иили,</IU>
+    <IU n="21">(0.5)</IU>
+    <IU n="22">таа-т модо-ӈи титтэ-л.</IU>
+    <IU n="23">(0.3)</IU>
+    <IU n="24">мит [лэмэ-гэ] —</IU>
+    <IU n="25">лэмэ-н лэгул-эк расход-тэ-дай-л.</IU>
+    <IU n="26">(0.3)</IU>
+    <IU n="27">лэгул-эк лэг-у-л,</IU>
+    <IU n="28">(0.3)</IU>
+    <IU n="29">лэм-дик мор-иэ-л,</IU>
+    <IU n="30">(0.3)</IU>
+    <IU n="31">та- —</IU>
+    <IU n="32">табуд-э титтэ-л льэ-ӈи.</IU>
+    <IU n="33">лэӈ-дэ-т мэ модо-ӈи.</IU>
+    <IU n="34">(0.6)</IU>
+    <IU n="35">и всьо.</IU>
+  </stext>
+</corpusDoc>

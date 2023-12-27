@@ -1,0 +1,97 @@
+<corpusDoc txt:id="2004_st_yux_010">
+  <teiHeader>
+    <fileDesc>
+      <title>The singing competition</title>
+      <sourceDesc>author="Nikolaeva &amp; Mayer" yearpub="2004" location="https://www.sgr.fi/yukaghir/start1.html"</sourceDesc>
+      <textDesc>variety="Kolyma Yukaghir" genre="Story" daterec="1986" locrec="Unknown"</textDesc>
+      <particDesc>id="008" name="Nikolaj Lixachev" age="76" gender="Male"</particDesc>
+      <notes>This legend is probably influenced by Yakut mythology, as the Yakuts believed that when a good singer sings (s)he is competing with the devil's daughter. The Yukaghirs considered singing a magical action. According to traditional Yukaghir beliefs, shamans used to sing sitting on trees. Shamans often competed with one another in singing competitions.</notes>
+    </fileDesc>
+  </teiHeader>
+  <stext>
+    <IU n="1">[ирк-и-н],</IU>
+    <IU n="2">(1.5)</IU>
+    <IU n="3">ирк-и-н мархуиль йапт-аа-й.</IU>
+    <IU n="4">(0.4)</IU>
+    <IU n="5">шал:л будиэ,</IU>
+    <IU n="6">арп-ай-дэллэ.</IU>
+    <IU n="7">(0.9)</IU>
+    <IU n="8">та-ӈ йахтэ-т модо —</IU>
+    <IU n="9">модо-до-го,</IU>
+    <IU n="10"> иись йахтэ-й.</IU>
+    <IU n="11">иись йахтэ-дэллэ.</IU>
+    <IU n="12">кужуу-гэт.</IU>
+    <IU n="13">(0.8)</IU>
+    <IU n="14">туча-гэт.</IU>
+    <IU n="15">ай йахт-аа-й.</IU>
+    <IU n="16">[ирк-и-н] —</IU>
+    <IU n="17">ирк-и-н пай.</IU>
+    <IU n="18">(1.8)</IU>
+    <IU n="19">йахтэ-т дьэ,</IU>
+    <IU n="20">(0.7)</IU>
+    <IU n="21">ти-ӈ мархуиль ...</IU>
+    <IU n="22">(0.7)</IU>
+    <IU n="23">лэмэ-дэ,</IU>
+    <IU n="24">мусьин-бэн-гэлэ чуму,</IU>
+    <IU n="25">йахтэ-рии-м.</IU>
+    <IU n="26">(0.6)</IU>
+    <IU n="27">шаал-э,</IU>
+    <IU n="28">шоромо-лэ,</IU>
+    <IU n="29">(0.8)</IU>
+    <IU n="30">ульэгэ-лэ,</IU>
+    <IU n="31">чистэ чуму йахтэ-рии-м.</IU>
+    <IU n="32">(1.5)</IU>
+    <IU n="33">йукагир-э,</IU>
+    <IU n="34">тамун,</IU>
+    <IU n="35">йахтэ-йоо-л пай-к.</IU>
+    <IU n="36">самый.</IU>
+    <IU n="37">(1.8)</IU>
+    <IU n="38">тамун дьэ [йахтэ] —</IU>
+    <IU n="39">йахтэ-дэ-гэ,</IU>
+    <IU n="40">та-ӈ ньань-уул-бэн машльуө.</IU>
+    <IU n="41">оо-льэл-тэ-й,</IU>
+    <IU n="42">(0.6)</IU>
+    <IU n="43">льэ-гэт кужуу-гэт,</IU>
+    <IU n="44">йахтэ-й.</IU>
+    <IU n="45">чуму дразньит.</IU>
+    <IU n="46">(0.8)</IU>
+    <IU n="47">чуму дразньит,</IU>
+    <IU n="48">тудэ-л мон-и,</IU>
+    <IU n="49">(0.7)</IU>
+    <IU n="50">таа-т дьэ,</IU>
+    <IU n="51">мусьин-бэн ти-ӈ лэбиэ-гэ льэ-л-гэлэ ул-дэ-м.</IU>
+    <IU n="52">йахтэ-рии,</IU>
+    <IU n="53">таа-т хойл-гэ йаха-й.</IU>
+    <IU n="54">(0.5)</IU>
+    <IU n="55">хойл-гэ йаха-дэллэ,</IU>
+    <IU n="56">дьэ хойл-эк,</IU>
+    <IU n="57">йахтэ-рии-мэлэ.</IU>
+    <IU n="58">(0.5)</IU>
+    <IU n="59">шоромо-гэн,</IU>
+    <IU n="60">хойл нингэ-й,</IU>
+    <IU n="61">расно-ӈоо-дьэ хойл.</IU>
+    <IU n="62">тии ходо,</IU>
+    <IU n="63">тии,</IU>
+    <IU n="64">аа-мэлэ-бэд-эк,</IU>
+    <IU n="65">(0.7)</IU>
+    <IU n="66">ходо мот-тэ-ӈилэ-бэд-эк,</IU>
+    <IU n="67">(0.5)</IU>
+    <IU n="68">ходо хойл нумө-гэлэ аа-мэлэ-бэд-эк,</IU>
+    <IU n="69">(0.5)</IU>
+    <IU n="70">чистэ тамун-гэлэ чуму.</IU>
+    <IU n="71">(0.7)</IU>
+    <IU n="72">йахтэ-рии-м.</IU>
+    <IU n="73">(0.5)</IU>
+    <IU n="74">йахтэ-рии-м,</IU>
+    <IU n="75">(0.6)</IU>
+    <IU n="76">христос мон-и.</IU>
+    <IU n="77">христос мон-дэ-гэ,</IU>
+    <IU n="78">тудэ-л, христос эл мон,</IU>
+    <IU n="79">кытчоос мон-и.</IU>
+    <IU n="80">(0.6)</IU>
+    <IU n="81">а, значит</IU>
+    <IU n="82">побэдила,</IU>
+    <IU n="83">(0.8)</IU>
+    <IU n="84">вот так.</IU>
+  </stext>
+</corpusDoc>
