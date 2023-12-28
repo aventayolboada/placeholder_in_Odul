@@ -7,8 +7,8 @@ This repo contains:
 - All the corpus files analyzed in the study in the `all_files` folder
 - A csv file with all the matches annotated for function
 - An R script used to:
-  -- retrieve all the matches and their discourse features,
-  -- produce an output for the qualitative analysis,
-  -- model the tokens in a random forest for the quantitative analysis
+  * retrieve all the matches and their discourse features,
+  * produce an output for the qualitative analysis,
+  * model the tokens in a random forest for the quantitative analysis
 
 These materials are shared for reproducibility purposes and provide additional information on the project and the analysis. 
