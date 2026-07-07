@@ -1,7 +1,7 @@
 # The placeholder in Kolyma Yukaghir (Odul)
 
 This repo contains all the files related to a study on the placeholder in Kolyma Yukaghir. 
-The analysis and write-up is available at the following publication (available online [here](https://paperhive.org/documents/items/5LD0_beV9RcH?a=p:137): 
+The analysis and write-up is available at the following publication (available online [here](https://paperhive.org/documents/items/5LD0_beV9RcH?a=p:137)): 
 
 Ventayol-Boada, Albert (forthcoming). Copula or placeholder: a qualitative and quantitative analysis of _λe_- in Kolyma Yukaghir discourse. In: Brigitte Pakendorf and Françoise Rose (eds.), _Fillers: hesitatives and placeholders_. Language Science Press. 
 
